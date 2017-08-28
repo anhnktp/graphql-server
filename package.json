@@ -1,0 +1,13 @@
+{
+  "name": "todo-graphql-server",
+  "version": "1.0.0",
+  "description": "GraphQL server for Todo List",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5",
+    "mongoose": "^4.11.7"
+  }
+}
